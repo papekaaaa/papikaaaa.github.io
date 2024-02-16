@@ -7,3 +7,5 @@
 ![download banner](./banner.jpg)
 
 กันยารัตน์ บัวชุม
+
+git clone เพิ่มลิงค์github ลง(หากไม่มีให้ scoop.sh และนำลิงค์เพิ่มเข้าในterminal ) 
