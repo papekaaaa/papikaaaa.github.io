@@ -9,3 +9,5 @@ st.text_input('What is your name')
 
 #streamlit run streamlit/app02.py
 #pip install streamlit
+#git config --global user.name papekaaaa
+#git config -global user.email kanyarat.bua.66@ubu.ac.th
